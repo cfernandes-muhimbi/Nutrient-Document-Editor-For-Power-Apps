@@ -53,12 +53,6 @@ Before you begin development, ensure you have the following installed:
 ### 5. .NET Build Tools
 - Install from: https://dotnet.microsoft.com/en-us/download
 
-## Installation & Usage
-
-Coming soon...
-
-(We recommend including instructions here for importing the component, binding data, and customizing features.)
-
 ## Conclusion
 
 You should now have the Nutrient PDF Editor up and running in your Power Apps. It’s a powerful way to extend Power Platform capabilities by enabling document viewing, editing, annotation, and signing—all inside your app.
