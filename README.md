@@ -31,7 +31,7 @@ The Nutrient React PDF Viewer is a commercial React.js PDF viewer library thatâ€
 ## Demo
 
 <!-- Add your GIF or video preview here -->
-![Demo of Nutrient PDF Editor](path-to-your-gif.gif)
+![Demo of Nutrient PDF Editor](https://github.com/cfernandes-muhimbi/Nutrient-Document-Editor-For-Power-Apps/blob/main/assests/PCF%20PowerApps.gif)
 
 ## Requirements to Get Started
 
